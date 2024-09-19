@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/CMakeFiles/lz4-populate"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/CMakeFiles/lz4-populate.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/CMakeFiles/lz4-populate-complete.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-build.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-configure.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-download.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-install.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-patch.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-test.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/mcap_vendor/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lz4-populate"
+		],
+		"name" : "lz4-populate"
+	}
+}

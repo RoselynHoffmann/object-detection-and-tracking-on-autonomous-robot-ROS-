@@ -1,0 +1,43 @@
+[0.056s] Invoking command in '/home/rose/ros2_ws/build/zstd_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/zstd_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/zstd_vendor
+[0.393s] -- The C compiler identification is GNU 11.4.0
+[0.852s] -- The CXX compiler identification is GNU 11.4.0
+[1.152s] -- Detecting C compiler ABI info
+[1.312s] -- Detecting C compiler ABI info - done
+[1.322s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.322s] -- Detecting C compile features
+[1.323s] -- Detecting C compile features - done
+[1.327s] -- Detecting CXX compiler ABI info
+[1.494s] -- Detecting CXX compiler ABI info - done
+[1.507s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.507s] -- Detecting CXX compile features
+[1.509s] -- Detecting CXX compile features - done
+[1.513s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.011s] -- Found Python3: /home/rose/miniconda3/envs/ros2_ws/bin/python3 (found version "3.10.14") found components: Interpreter 
+[2.363s] -- Found Zstd, skipping build.
+[2.479s] -- Configuring done
+[2.488s] -- Generating done
+[2.490s] -- Build files have been written to: /home/rose/ros2_ws/build/zstd_vendor
+[2.499s] Invoked command in '/home/rose/ros2_ws/build/zstd_vendor' returned '0': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/zstd_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/zstd_vendor
+[2.506s] Invoking command in '/home/rose/ros2_ws/build/zstd_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/zstd_vendor -- -j16 -l16
+[2.545s] Invoked command in '/home/rose/ros2_ws/build/zstd_vendor' returned '0': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/zstd_vendor -- -j16 -l16
+[2.585s] Invoking command in '/home/rose/ros2_ws/build/zstd_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --install /home/rose/ros2_ws/build/zstd_vendor
+[2.602s] -- Install configuration: ""
+[2.602s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake
+[2.603s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/Modules
+[2.603s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/Modules/Findzstd.cmake
+[2.603s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/package_run_dependencies/zstd_vendor
+[2.603s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/parent_prefix_path/zstd_vendor
+[2.604s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/ament_prefix_path.sh
+[2.604s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/ament_prefix_path.dsv
+[2.604s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/path.sh
+[2.605s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/path.dsv
+[2.605s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.bash
+[2.605s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.sh
+[2.605s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.zsh
+[2.606s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.dsv
+[2.607s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/package.dsv
+[2.607s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/packages/zstd_vendor
+[2.608s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendor-extras.cmake
+[2.609s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendorConfig.cmake
+[2.609s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendorConfig-version.cmake
+[2.609s] -- Installing: /home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/package.xml

@@ -1,0 +1,22 @@
+[0.049s] Invoking command in '/home/rose/ros2_ws/build/mcap_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/mcap_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/mcap_vendor
+[0.206s] -- The C compiler identification is GNU 11.4.0
+[0.653s] -- The CXX compiler identification is GNU 11.4.0
+[0.987s] -- The ASM compiler identification is GNU
+[1.481s] -- Found assembler: /usr/bin/cc
+[1.486s] -- Detecting C compiler ABI info
+[1.661s] -- Detecting C compiler ABI info - done
+[1.670s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.670s] -- Detecting C compile features
+[1.671s] -- Detecting C compile features - done
+[1.674s] -- Detecting CXX compiler ABI info
+[1.844s] -- Detecting CXX compiler ABI info - done
+[1.853s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.854s] -- Detecting CXX compile features
+[1.854s] -- Detecting CXX compile features - done
+[1.870s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.380s] -- Found Python3: /home/rose/miniconda3/envs/ros2_ws/bin/python3 (found version "3.10.14") found components: Interpreter 
+[2.495s] -- Found zstd_vendor: 0.15.12 (/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake)
+[2.709s] -- Found zstd: /usr/lib/x86_64-linux-gnu/libzstd.so (found version "1.4.8") 
+[7.918s] -- Configuring done
+[7.932s] -- Generating done
+[7.934s] -- Build files have been written to: /home/rose/ros2_ws/build/mcap_vendor

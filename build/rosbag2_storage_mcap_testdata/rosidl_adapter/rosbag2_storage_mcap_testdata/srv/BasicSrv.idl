@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from rosbag2_storage_mcap_testdata/srv/BasicSrv.srv
+// generated code does not contain a copyright notice
+
+
+module rosbag2_storage_mcap_testdata {
+  module srv {
+    struct BasicSrv_Request {
+      string req;
+    };
+    struct BasicSrv_Response {
+      string resp;
+    };
+  };
+};

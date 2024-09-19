@@ -1,0 +1,10 @@
+{
+  "package_name": "rosbag2_storage_mcap_testdata",
+  "non_idl_tuples": [
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata:msg/BasicMsg.msg",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata:msg/ComplexMsg.msg",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata:msg/ComplexMsgDependsOnIdl.msg",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata:srv/BasicSrv.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata:action/BasicAction.action"
+  ]
+}

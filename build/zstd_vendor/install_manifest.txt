@@ -1,0 +1,17 @@
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/Modules/Findzstd.cmake
+/home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/package_run_dependencies/zstd_vendor
+/home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/parent_prefix_path/zstd_vendor
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/ament_prefix_path.sh
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/ament_prefix_path.dsv
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/path.sh
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/environment/path.dsv
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.bash
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.sh
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.zsh
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/local_setup.dsv
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/package.dsv
+/home/rose/ros2_ws/install/zstd_vendor/share/ament_index/resource_index/packages/zstd_vendor
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendor-extras.cmake
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendorConfig.cmake
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/cmake/zstd_vendorConfig-version.cmake
+/home/rose/ros2_ws/install/zstd_vendor/share/zstd_vendor/package.xml

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/foxglove/mcap/archive/refs/tags/releases/cpp/v0.8.0.tar.gz'
+tag='SHA1=b44637791da2c9c1cec61a3ba6994f1ef63a228c'

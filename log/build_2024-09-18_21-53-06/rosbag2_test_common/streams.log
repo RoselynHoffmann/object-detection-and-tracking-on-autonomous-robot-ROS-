@@ -1,0 +1,35 @@
+[0.059s] Invoking command in '/home/rose/ros2_ws/build/rosbag2_test_common': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/rosbag2_test_common -- -j16 -l16
+[0.387s] Invoked command in '/home/rose/ros2_ws/build/rosbag2_test_common' returned '0': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/rosbag2_test_common -- -j16 -l16
+[0.434s] Invoking command in '/home/rose/ros2_ws/build/rosbag2_test_common': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --install /home/rose/ros2_ws/build/rosbag2_test_common
+[0.445s] -- Install configuration: ""
+[0.445s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common
+[0.448s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common
+[0.448s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/wait_for.hpp
+[0.449s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/publication_manager.hpp
+[0.449s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/tested_storage_ids.hpp
+[0.450s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/subscription_manager.hpp
+[0.450s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/temporary_directory_fixture.hpp
+[0.451s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/memory_management.hpp
+[0.452s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/process_execution_helpers_windows.hpp
+[0.452s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/process_execution_helpers.hpp
+[0.452s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/include/rosbag2_test_common/rosbag2_test_common/process_execution_helpers_unix.hpp
+[0.453s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/ament_index/resource_index/package_run_dependencies/rosbag2_test_common
+[0.453s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/ament_index/resource_index/parent_prefix_path/rosbag2_test_common
+[0.453s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/environment/ament_prefix_path.sh
+[0.454s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/environment/ament_prefix_path.dsv
+[0.454s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/environment/path.sh
+[0.454s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/environment/path.dsv
+[0.455s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/local_setup.bash
+[0.455s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/local_setup.sh
+[0.474s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/local_setup.zsh
+[0.474s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/local_setup.dsv
+[0.474s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/package.dsv
+[0.474s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/ament_index/resource_index/packages/rosbag2_test_common
+[0.475s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/export_rosbag2_test_commonExport.cmake
+[0.475s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.475s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.475s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/ament_cmake_export_targets-extras.cmake
+[0.476s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/rosbag2_test_commonConfig.cmake
+[0.476s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/cmake/rosbag2_test_commonConfig-version.cmake
+[0.476s] -- Installing: /home/rose/ros2_ws/install/rosbag2_test_common/share/rosbag2_test_common/package.xml
+[0.503s] Invoked command in '/home/rose/ros2_ws/build/rosbag2_test_common' returned '0': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --install /home/rose/ros2_ws/build/rosbag2_test_common

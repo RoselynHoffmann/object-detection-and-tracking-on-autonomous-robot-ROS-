@@ -1,0 +1,3 @@
+[console_scripts]
+mp4_publisher = inventory_system.mp4_publisher:main
+object_detection = inventory_system.object_detection_node:main

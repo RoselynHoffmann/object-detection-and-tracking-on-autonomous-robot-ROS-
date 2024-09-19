@@ -1,0 +1,33 @@
+[0.525s] Invoking command in '/home/rose/ros2_ws/src/inventory_system': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data
+[0.691s] /usr/local/lib/python3.10/dist-packages/setuptools_scm/_integration/setuptools.py:31: RuntimeWarning: 
+[0.692s] ERROR: setuptools==59.6.0 is used in combination with setuptools_scm>=8.x
+[0.692s] 
+[0.692s] Your build configuration is incomplete and previously worked by accident!
+[0.692s] setuptools_scm requires setuptools>=61
+[0.692s] 
+[0.692s] Suggested workaround if applicable:
+[0.692s]  - migrating from the deprecated setup_requires mechanism to pep517/518
+[0.692s]    and using a pyproject.toml to declare build dependencies
+[0.692s]    which are reliably pre-installed before running the build tools
+[0.692s] 
+[0.692s]   warnings.warn(
+[0.706s] running egg_info
+[0.707s] writing ../../build/inventory_system/inventory_system.egg-info/PKG-INFO
+[0.708s] writing dependency_links to ../../build/inventory_system/inventory_system.egg-info/dependency_links.txt
+[0.708s] writing entry points to ../../build/inventory_system/inventory_system.egg-info/entry_points.txt
+[0.709s] writing requirements to ../../build/inventory_system/inventory_system.egg-info/requires.txt
+[0.709s] writing top-level names to ../../build/inventory_system/inventory_system.egg-info/top_level.txt
+[0.794s] writing manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+[0.794s] running build
+[0.794s] running build_py
+[0.794s] running install
+[0.794s] running install_lib
+[0.796s] running install_data
+[0.796s] running install_egg_info
+[0.796s] removing '/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info' (and everything under it)
+[0.797s] Copying ../../build/inventory_system/inventory_system.egg-info to /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info
+[0.798s] running install_scripts
+[0.813s] Installing object_detection script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.813s] Installing video_publisher script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.813s] writing list of installed files to '/home/rose/ros2_ws/build/inventory_system/install.log'
+[0.858s] Invoked command in '/home/rose/ros2_ws/src/inventory_system' returned '0': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data

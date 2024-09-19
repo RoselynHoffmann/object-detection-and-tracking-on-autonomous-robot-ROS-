@@ -1,0 +1,6 @@
+setup.py
+rosbag2_storage_mcap_testdata/__init__.py
+rosbag2_storage_mcap_testdata.egg-info/PKG-INFO
+rosbag2_storage_mcap_testdata.egg-info/SOURCES.txt
+rosbag2_storage_mcap_testdata.egg-info/dependency_links.txt
+rosbag2_storage_mcap_testdata.egg-info/top_level.txt

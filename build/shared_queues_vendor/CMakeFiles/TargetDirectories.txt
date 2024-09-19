@@ -1,0 +1,11 @@
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/uninstall.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/shared_queues_vendor_uninstall.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-singleproducerconsumer.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-concurrentqueue.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/test.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/edit_cache.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/rebuild_cache.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/list_install_components.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/install.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/install/local.dir
+/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/install/strip.dir

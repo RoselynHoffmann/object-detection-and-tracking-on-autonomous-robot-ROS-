@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/cameron314/readerwriterqueue/archive/ef7dfbf553288064347d51b8ac335f1ca489032a.zip'
+tag='MD5=64c673dd381b8fae9254053ad7b2be4d'

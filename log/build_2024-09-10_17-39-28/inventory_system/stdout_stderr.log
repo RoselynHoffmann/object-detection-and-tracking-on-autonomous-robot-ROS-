@@ -1,0 +1,21 @@
+/home/rose/miniconda3/envs/ros2_ws/lib/python3.11/site-packages/setuptools/_distutils/dist.py:268: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+writing ../../build/inventory_system/inventory_system.egg-info/PKG-INFO
+writing dependency_links to ../../build/inventory_system/inventory_system.egg-info/dependency_links.txt
+writing entry points to ../../build/inventory_system/inventory_system.egg-info/entry_points.txt
+writing requirements to ../../build/inventory_system/inventory_system.egg-info/requires.txt
+writing top-level names to ../../build/inventory_system/inventory_system.egg-info/top_level.txt
+reading manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+writing manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+running build
+running build_py
+copying inventory_system/object_detection_node.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+copying inventory_system/video_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+copying inventory_system/__init__.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+running install
+running install_lib
+running install_data
+copying resource/inventory_system -> /home/rose/ros2_ws/install/inventory_system/share/ament_index/resource_index/packages
+copying package.xml -> /home/rose/ros2_ws/install/inventory_system/share/inventory_system
+error: can't copy 'launch/multilaunch.py': doesn't exist or not a regular file

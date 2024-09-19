@@ -1,0 +1,25 @@
+[0.322s] Invoking command in '/home/rose/ros2_ws/src/inventory_system': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data
+[0.446s] running egg_info
+[0.446s] writing ../../build/inventory_system/inventory_system.egg-info/PKG-INFO
+[0.446s] writing dependency_links to ../../build/inventory_system/inventory_system.egg-info/dependency_links.txt
+[0.447s] writing entry points to ../../build/inventory_system/inventory_system.egg-info/entry_points.txt
+[0.447s] writing requirements to ../../build/inventory_system/inventory_system.egg-info/requires.txt
+[0.447s] writing top-level names to ../../build/inventory_system/inventory_system.egg-info/top_level.txt
+[0.447s] reading manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+[0.448s] writing manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+[0.448s] running build
+[0.448s] running build_py
+[0.448s] copying inventory_system/video_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[0.449s] running install
+[0.449s] running install_lib
+[0.449s] copying /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system/video_publisher.py -> /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system
+[0.450s] byte-compiling /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system/video_publisher.py to video_publisher.cpython-310.pyc
+[0.450s] running install_data
+[0.450s] running install_egg_info
+[0.451s] removing '/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info' (and everything under it)
+[0.452s] Copying ../../build/inventory_system/inventory_system.egg-info to /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info
+[0.452s] running install_scripts
+[0.465s] Installing object_detection script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.465s] Installing video_publisher script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.465s] writing list of installed files to '/home/rose/ros2_ws/build/inventory_system/install.log'
+[0.486s] Invoked command in '/home/rose/ros2_ws/src/inventory_system' returned '0': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data

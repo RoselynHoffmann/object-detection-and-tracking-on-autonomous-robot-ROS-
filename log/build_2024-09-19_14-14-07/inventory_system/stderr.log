@@ -1,0 +1,2 @@
+/home/rose/miniconda3/envs/ros2_ws/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)

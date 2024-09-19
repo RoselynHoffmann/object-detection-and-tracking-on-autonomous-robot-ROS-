@@ -1,0 +1,5 @@
+/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata:msg/BasicMsg.idl
+/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata:msg/ComplexMsg.idl
+/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata:msg/ComplexMsgDependsOnIdl.idl
+/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata:srv/BasicSrv.idl
+/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata:action/BasicAction.idl

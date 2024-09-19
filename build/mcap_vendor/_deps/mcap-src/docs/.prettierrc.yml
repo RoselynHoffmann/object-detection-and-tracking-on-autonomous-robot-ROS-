@@ -1,0 +1,6 @@
+proseWrap: never
+
+overrides:
+  - files: "*.ksy"
+    options:
+      parser: yaml

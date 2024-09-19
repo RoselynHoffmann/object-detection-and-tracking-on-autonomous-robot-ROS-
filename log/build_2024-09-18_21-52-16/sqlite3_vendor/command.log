@@ -1,0 +1,1 @@
+Invoking command in '/home/rose/ros2_ws/build/sqlite3_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/sqlite3_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/sqlite3_vendor

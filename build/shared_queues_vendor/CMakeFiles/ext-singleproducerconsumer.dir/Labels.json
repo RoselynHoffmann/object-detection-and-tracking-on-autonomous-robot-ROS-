@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-singleproducerconsumer"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-singleproducerconsumer.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-singleproducerconsumer-complete.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-build.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-configure.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-download.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-install.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-mkdir.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-patch.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer-stamp/ext-singleproducerconsumer-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext-singleproducerconsumer"
+		],
+		"name" : "ext-singleproducerconsumer"
+	}
+}

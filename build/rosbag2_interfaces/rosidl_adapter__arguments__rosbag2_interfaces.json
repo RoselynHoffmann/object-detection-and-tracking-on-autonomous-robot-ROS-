@@ -1,0 +1,17 @@
+{
+  "package_name": "rosbag2_interfaces",
+  "non_idl_tuples": [
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:msg/ReadSplitEvent.msg",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:msg/WriteSplitEvent.msg",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/Burst.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/GetRate.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/IsPaused.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/Pause.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/PlayNext.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/Resume.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/Seek.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/SetRate.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/Snapshot.srv",
+    "/home/rose/ros2_ws/src/rosbag2/rosbag2_interfaces:srv/TogglePaused.srv"
+  ]
+}

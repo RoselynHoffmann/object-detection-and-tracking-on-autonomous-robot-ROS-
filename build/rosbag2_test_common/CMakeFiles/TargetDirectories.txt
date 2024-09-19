@@ -1,0 +1,9 @@
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/uninstall.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/rosbag2_test_common_uninstall.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/test.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/edit_cache.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/rebuild_cache.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/list_install_components.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/install.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/install/local.dir
+/home/rose/ros2_ws/build/rosbag2_test_common/CMakeFiles/install/strip.dir

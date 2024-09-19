@@ -1,0 +1,61 @@
+[0.056s] Invoking command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/rosbag2_storage_mcap_testdata
+[0.075s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.229s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.231s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.234s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.356s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.549s] [31mCMake Error at /opt/ros/humble/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:59 (message):
+[0.549s]   execute_process(/home/rose/miniconda3/envs/ros2_ws/bin/python3 -m
+[0.550s]   rosidl_adapter --package-name rosbag2_storage_mcap_testdata
+[0.550s]   --arguments-file
+[0.550s]   /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter__arguments__rosbag2_storage_mcap_testdata.json
+[0.550s]   --output-dir
+[0.551s]   /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata
+[0.551s]   --output-file
+[0.551s]   /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/rosidl_adapter/rosbag2_storage_mcap_testdata.idls)
+[0.552s]   returned error code 1:
+[0.552s] 
+[0.552s]   AttributeError processing template 'msg.idl.em'
+[0.552s] 
+[0.553s]   Traceback (most recent call last):
+[0.553s] 
+[0.553s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/resource/__init__.py", line 51, in evaluate_template
+[0.553s]       em.BUFFERED_OPT: True,
+[0.554s] 
+[0.554s]   AttributeError: module 'em' has no attribute 'BUFFERED_OPT'
+[0.555s] 
+[0.555s]   
+[0.555s] 
+[0.555s]   During handling of the above exception, another exception occurred:
+[0.557s] 
+[0.557s]   
+[0.558s] 
+[0.558s]   Traceback (most recent call last):
+[0.558s] 
+[0.559s]     File "/home/rose/miniconda3/envs/ros2_ws/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+[0.559s]       return _run_code(code, main_globals, None,
+[0.559s]     File "/home/rose/miniconda3/envs/ros2_ws/lib/python3.10/runpy.py", line 86, in _run_code
+[0.560s]       exec(code, run_globals)
+[0.560s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__main__.py", line 19, in <module>
+[0.560s]       sys.exit(main())
+[0.561s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/main.py", line 53, in main
+[0.561s]       abs_idl_file = convert_to_idl(
+[0.561s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__init__.py", line 19, in convert_to_idl
+[0.562s]       return convert_msg_to_idl(
+[0.562s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/msg/__init__.py", line 39, in convert_msg_to_idl
+[0.562s]       expand_template('msg.idl.em', data, output_file, encoding='iso-8859-1')
+[0.563s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/resource/__init__.py", line 23, in expand_template
+[0.563s]       content = evaluate_template(template_name, data)
+[0.563s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/resource/__init__.py", line 69, in evaluate_template
+[0.564s]       _interpreter.shutdown()
+[0.564s] 
+[0.565s]   AttributeError: 'NoneType' object has no attribute 'shutdown'
+[0.565s] 
+[0.565s] Call Stack (most recent call first):
+[0.565s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)
+[0.566s]   CMakeLists.txt:11 (rosidl_generate_interfaces)
+[0.566s] 
+[0.566s] [0m
+[0.566s] -- Configuring incomplete, errors occurred!
+[0.567s] See also "/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata/CMakeFiles/CMakeOutput.log".
+[0.606s] Invoked command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata' returned '1': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/rosbag2_storage_mcap_testdata

@@ -1,0 +1,128 @@
+[0.068s] Invoking command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/rosbag2_storage_mcap_testdata
+[0.344s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.346s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.349s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.349s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.356s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.875s] -- Found ament_cmake_cppcheck: 0.12.11 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[0.878s] -- Found ament_cmake_cpplint: 0.12.11 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[0.882s] -- Found ament_cmake_uncrustify: 0.12.11 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[0.888s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.157s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.472s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.565s] -- Found PythonInterp: /home/rose/miniconda3/envs/ros2_ws/bin/python3 (found suitable version "3.10.14", minimum required is "3.6") 
+[1.570s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.595s] -- Found PythonLibs: /home/rose/miniconda3/envs/ros2_ws/lib/libpython3.10.so (found suitable version "3.10.14", minimum required is "3.5") 
+[1.595s] -- Using PYTHON_EXECUTABLE: /home/rose/miniconda3/envs/ros2_ws/bin/python3
+[1.595s] -- Using PYTHON_INCLUDE_DIRS: /home/rose/miniconda3/envs/ros2_ws/include/python3.10
+[1.596s] -- Using PYTHON_LIBRARIES: /home/rose/miniconda3/envs/ros2_ws/lib/libpython3.10.so
+[1.615s] -- Found PythonExtra: .so  
+[1.859s] -- Using numpy include directory: /home/rose/miniconda3/envs/ros2_ws/lib/python3.10/site-packages/numpy/core/include
+[1.873s] -- Found ament_cmake_flake8: 0.12.11 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[1.877s] -- Found ament_cmake_pep257: 0.12.11 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[1.906s] -- Configuring done
+[1.976s] [33mCMake Warning at /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:166 (add_library):
+[1.977s]   Cannot generate a safe runtime search path for target
+[1.977s]   rosbag2_storage_mcap_testdata__rosidl_generator_py because files in some
+[1.977s]   directories may conflict with libraries in implicit directories:
+[1.977s] 
+[1.977s]     runtime library [libpython3.10.so.1.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+[1.977s]       /home/rose/miniconda3/envs/ros2_ws/lib
+[1.977s] 
+[1.977s]   Some of these libraries may not be found correctly.
+[1.977s] Call Stack (most recent call first):
+[1.977s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.977s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.977s]   CMakeLists.txt:11 (rosidl_generate_interfaces)
+[1.977s] 
+[1.977s] [0m
+[1.981s] [33mCMake Warning at /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:226 (add_library):
+[1.981s]   Cannot generate a safe runtime search path for target
+[1.982s]   rosbag2_storage_mcap_testdata__rosidl_typesupport_fastrtps_c__pyext because
+[1.982s]   files in some directories may conflict with libraries in implicit
+[1.982s]   directories:
+[1.982s] 
+[1.982s]     runtime library [libpython3.10.so.1.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+[1.982s]       /home/rose/miniconda3/envs/ros2_ws/lib
+[1.982s] 
+[1.982s]   Some of these libraries may not be found correctly.
+[1.982s] Call Stack (most recent call first):
+[1.982s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.982s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.983s]   CMakeLists.txt:11 (rosidl_generate_interfaces)
+[1.983s] 
+[1.983s] [0m
+[1.986s] [33mCMake Warning at /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:226 (add_library):
+[1.986s]   Cannot generate a safe runtime search path for target
+[1.986s]   rosbag2_storage_mcap_testdata__rosidl_typesupport_introspection_c__pyext
+[1.986s]   because files in some directories may conflict with libraries in implicit
+[1.986s]   directories:
+[1.986s] 
+[1.986s]     runtime library [libpython3.10.so.1.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+[1.986s]       /home/rose/miniconda3/envs/ros2_ws/lib
+[1.986s] 
+[1.986s]   Some of these libraries may not be found correctly.
+[1.987s] Call Stack (most recent call first):
+[1.987s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.987s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.987s]   CMakeLists.txt:11 (rosidl_generate_interfaces)
+[1.987s] 
+[1.987s] [0m
+[1.990s] [33mCMake Warning at /opt/ros/humble/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:226 (add_library):
+[1.991s]   Cannot generate a safe runtime search path for target
+[1.991s]   rosbag2_storage_mcap_testdata__rosidl_typesupport_c__pyext because files in
+[1.991s]   some directories may conflict with libraries in implicit directories:
+[1.991s] 
+[1.991s]     runtime library [libpython3.10.so.1.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+[1.991s]       /home/rose/miniconda3/envs/ros2_ws/lib
+[1.991s] 
+[1.992s]   Some of these libraries may not be found correctly.
+[1.992s] Call Stack (most recent call first):
+[1.992s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+[1.992s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+[1.993s]   CMakeLists.txt:11 (rosidl_generate_interfaces)
+[1.993s] 
+[1.993s] [0m
+[2.002s] -- Generating done
+[2.003s] -- Build files have been written to: /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata
+[2.015s] Invoked command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/rosbag2_storage_mcap_testdata -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/rosbag2_storage_mcap_testdata
+[2.018s] Invoking command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata -- -j16 -l16
+[2.064s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.081s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.091s] [  2%] Built target ament_cmake_python_copy_rosbag2_storage_mcap_testdata
+[2.148s] Traceback (most recent call last):
+[2.148s]   File "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c", line 8, in <module>
+[2.148s]     from rosidl_generator_c import generate_c
+[2.148s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_c/__init__.py", line 15, in <module>
+[2.148s]     from rosidl_cmake import convert_camel_case_to_lower_case_underscore
+[2.148s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 24, in <module>
+[2.148s]     from rosidl_parser.parser import parse_idl_file
+[2.148s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 20, in <module>
+[2.148s]     from lark import Lark
+[2.149s] ModuleNotFoundError: No module named 'lark'
+[2.159s] gmake[2]: *** [CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_generator_c.dir/build.make:100: rosidl_generator_c/rosbag2_storage_mcap_testdata/msg/complex_idl.h] Error 1
+[2.159s] gmake[1]: *** [CMakeFiles/Makefile2:212: CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_generator_c.dir/all] Error 2
+[2.159s] gmake[1]: *** Waiting for unfinished jobs....
+[2.162s] Traceback (most recent call last):
+[2.162s]   File "/opt/ros/humble/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp", line 8, in <module>
+[2.162s]     from rosidl_generator_cpp import generate_cpp
+[2.162s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_cpp/__init__.py", line 17, in <module>
+[2.162s]     from rosidl_cmake import generate_files
+[2.162s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 24, in <module>
+[2.162s]     from rosidl_parser.parser import parse_idl_file
+[2.162s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 20, in <module>
+[2.162s]     from lark import Lark
+[2.162s] ModuleNotFoundError: No module named 'lark'
+[2.172s] gmake[2]: *** [CMakeFiles/rosbag2_storage_mcap_testdata__cpp.dir/build.make:128: rosidl_generator_cpp/rosbag2_storage_mcap_testdata/msg/complex_idl.hpp] Error 1
+[2.172s] gmake[1]: *** [CMakeFiles/Makefile2:317: CMakeFiles/rosbag2_storage_mcap_testdata__cpp.dir/all] Error 2
+[2.348s] running egg_info
+[2.349s] creating rosbag2_storage_mcap_testdata.egg-info
+[2.364s] writing rosbag2_storage_mcap_testdata.egg-info/PKG-INFO
+[2.365s] writing dependency_links to rosbag2_storage_mcap_testdata.egg-info/dependency_links.txt
+[2.365s] writing top-level names to rosbag2_storage_mcap_testdata.egg-info/top_level.txt
+[2.366s] writing manifest file 'rosbag2_storage_mcap_testdata.egg-info/SOURCES.txt'
+[2.541s] reading manifest file 'rosbag2_storage_mcap_testdata.egg-info/SOURCES.txt'
+[2.543s] writing manifest file 'rosbag2_storage_mcap_testdata.egg-info/SOURCES.txt'
+[2.587s] [  2%] Built target ament_cmake_python_build_rosbag2_storage_mcap_testdata_egg
+[2.588s] gmake: *** [Makefile:146: all] Error 2
+[2.594s] Invoked command in '/home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/rosbag2_storage_mcap_testdata -- -j16 -l16

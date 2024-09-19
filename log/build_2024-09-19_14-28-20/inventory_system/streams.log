@@ -1,0 +1,32 @@
+[0.427s] Invoking command in '/home/rose/ros2_ws/src/inventory_system': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data
+[0.512s] /home/rose/miniconda3/envs/ros2_ws/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.513s]   warnings.warn(msg)
+[0.569s] running egg_info
+[0.577s] writing ../../build/inventory_system/inventory_system.egg-info/PKG-INFO
+[0.578s] writing dependency_links to ../../build/inventory_system/inventory_system.egg-info/dependency_links.txt
+[0.578s] writing entry points to ../../build/inventory_system/inventory_system.egg-info/entry_points.txt
+[0.578s] writing requirements to ../../build/inventory_system/inventory_system.egg-info/requires.txt
+[0.578s] writing top-level names to ../../build/inventory_system/inventory_system.egg-info/top_level.txt
+[0.640s] writing manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+[0.641s] running build
+[0.641s] running build_py
+[0.641s] copying inventory_system/object_detection_node.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[0.641s] copying inventory_system/rosbag_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[0.641s] copying inventory_system/mp4_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[0.642s] copying inventory_system/__init__.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[0.642s] running install
+[0.644s] running install_lib
+[0.653s] copying /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system/mp4_publisher.py -> /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system
+[0.654s] byte-compiling /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system/mp4_publisher.py to mp4_publisher.cpython-310.pyc
+[0.654s] running install_data
+[0.655s] copying resource/inventory_system -> /home/rose/ros2_ws/install/inventory_system/share/ament_index/resource_index/packages
+[0.655s] copying package.xml -> /home/rose/ros2_ws/install/inventory_system/share/inventory_system
+[0.655s] copying launch/multilaunch.py -> /home/rose/ros2_ws/install/inventory_system/share/inventory_system/launch
+[0.655s] running install_egg_info
+[0.663s] removing '/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info' (and everything under it)
+[0.664s] Copying ../../build/inventory_system/inventory_system.egg-info to /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info
+[0.666s] running install_scripts
+[0.746s] Installing mp4_publisher script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.746s] Installing object_detection script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[0.747s] writing list of installed files to '/home/rose/ros2_ws/build/inventory_system/install.log'
+[0.768s] Invoked command in '/home/rose/ros2_ws/src/inventory_system' returned '0': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libmcap.so -o libmcap.so CMakeFiles/mcap.dir/src/main.cpp.o CMakeFiles/mcap.dir/_deps/lz4-src/lib/lz4.c.o CMakeFiles/mcap.dir/_deps/lz4-src/lib/lz4frame.c.o CMakeFiles/mcap.dir/_deps/lz4-src/lib/lz4hc.c.o CMakeFiles/mcap.dir/_deps/lz4-src/lib/xxhash.c.o  /usr/lib/x86_64-linux-gnu/libzstd.so 

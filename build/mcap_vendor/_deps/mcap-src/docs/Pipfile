@@ -1,0 +1,8 @@
+[packages]
+cairosvg = "*"
+mdx-truly-sane-lists = "*"
+mkdocs = "*"
+mkdocs-material = ">=8.5.0"
+pillow = "*"
+pygments = "*"
+mkdocs-glightbox = "*"

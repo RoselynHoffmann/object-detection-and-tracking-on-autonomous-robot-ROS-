@@ -1,0 +1,12 @@
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:msg/ReadSplitEvent.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:msg/WriteSplitEvent.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/Burst.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/GetRate.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/IsPaused.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/Pause.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/PlayNext.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/Resume.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/Seek.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/SetRate.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/Snapshot.idl
+/home/rose/ros2_ws/build/rosbag2_interfaces/rosidl_adapter/rosbag2_interfaces:srv/TogglePaused.idl

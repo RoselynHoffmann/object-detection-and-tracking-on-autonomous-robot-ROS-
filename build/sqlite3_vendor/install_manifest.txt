@@ -1,0 +1,17 @@
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/cmake/Modules/FindSQLite3.cmake
+/home/rose/ros2_ws/install/sqlite3_vendor/share/ament_index/resource_index/package_run_dependencies/sqlite3_vendor
+/home/rose/ros2_ws/install/sqlite3_vendor/share/ament_index/resource_index/parent_prefix_path/sqlite3_vendor
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/environment/ament_prefix_path.sh
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/environment/ament_prefix_path.dsv
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/environment/path.sh
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/environment/path.dsv
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/local_setup.bash
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/local_setup.sh
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/local_setup.zsh
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/local_setup.dsv
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/package.dsv
+/home/rose/ros2_ws/install/sqlite3_vendor/share/ament_index/resource_index/packages/sqlite3_vendor
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendor-extras.cmake
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig.cmake
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig-version.cmake
+/home/rose/ros2_ws/install/sqlite3_vendor/share/sqlite3_vendor/package.xml

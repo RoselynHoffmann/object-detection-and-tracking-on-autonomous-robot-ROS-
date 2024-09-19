@@ -1,0 +1,30 @@
+[0.887s] Invoking command in '/home/rose/ros2_ws/src/inventory_system': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data
+[1.066s] /home/rose/miniconda3/envs/ros2_ws/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.066s]   warnings.warn(msg)
+[1.163s] running egg_info
+[1.177s] writing ../../build/inventory_system/inventory_system.egg-info/PKG-INFO
+[1.178s] writing dependency_links to ../../build/inventory_system/inventory_system.egg-info/dependency_links.txt
+[1.179s] writing entry points to ../../build/inventory_system/inventory_system.egg-info/entry_points.txt
+[1.179s] writing requirements to ../../build/inventory_system/inventory_system.egg-info/requires.txt
+[1.179s] writing top-level names to ../../build/inventory_system/inventory_system.egg-info/top_level.txt
+[1.317s] writing manifest file '../../build/inventory_system/inventory_system.egg-info/SOURCES.txt'
+[1.317s] running build
+[1.318s] running build_py
+[1.318s] copying inventory_system/object_detection_node.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[1.319s] copying inventory_system/rosbag_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[1.319s] copying inventory_system/mp4_publisher.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[1.319s] copying inventory_system/__init__.py -> /home/rose/ros2_ws/build/inventory_system/build/lib/inventory_system
+[1.321s] running install
+[1.327s] running install_lib
+[1.348s] running install_data
+[1.348s] copying resource/inventory_system -> /home/rose/ros2_ws/install/inventory_system/share/ament_index/resource_index/packages
+[1.349s] copying package.xml -> /home/rose/ros2_ws/install/inventory_system/share/inventory_system
+[1.349s] copying launch/multilaunch.py -> /home/rose/ros2_ws/install/inventory_system/share/inventory_system/launch
+[1.349s] running install_egg_info
+[1.368s] removing '/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info' (and everything under it)
+[1.368s] Copying ../../build/inventory_system/inventory_system.egg-info to /home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages/inventory_system-0.0.0-py3.10.egg-info
+[1.370s] running install_scripts
+[1.527s] Installing mp4_publisher script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[1.527s] Installing object_detection script to /home/rose/ros2_ws/install/inventory_system/lib/inventory_system
+[1.527s] writing list of installed files to '/home/rose/ros2_ws/build/inventory_system/install.log'
+[1.562s] Invoked command in '/home/rose/ros2_ws/src/inventory_system' returned '0': CONDA_PROMPT_MODIFIER=(ros2_ws) PYTHONPATH=/home/rose/ros2_ws/build/inventory_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rose/ros2_ws/install/inventory_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/inventory_system build --build-base /home/rose/ros2_ws/build/inventory_system/build install --record /home/rose/ros2_ws/build/inventory_system/install.log --single-version-externally-managed install_data

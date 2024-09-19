@@ -1,0 +1,9 @@
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/uninstall.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/zstd_vendor_uninstall.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/test.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/edit_cache.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/rebuild_cache.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/list_install_components.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/install.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/install/local.dir
+/home/rose/ros2_ws/build/zstd_vendor/CMakeFiles/install/strip.dir

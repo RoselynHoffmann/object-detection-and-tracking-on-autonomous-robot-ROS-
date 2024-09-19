@@ -1,0 +1,73 @@
+[0.051s] Invoking command in '/home/rose/ros2_ws/build/shared_queues_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/shared_queues_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/shared_queues_vendor
+[0.383s] -- The C compiler identification is GNU 11.4.0
+[0.803s] -- The CXX compiler identification is GNU 11.4.0
+[1.073s] -- Detecting C compiler ABI info
+[1.227s] -- Detecting C compiler ABI info - done
+[1.239s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.240s] -- Detecting C compile features
+[1.241s] -- Detecting C compile features - done
+[1.246s] -- Detecting CXX compiler ABI info
+[1.416s] -- Detecting CXX compiler ABI info - done
+[1.427s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.428s] -- Detecting CXX compile features
+[1.429s] -- Detecting CXX compile features - done
+[1.451s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.973s] -- Found Python3: /home/rose/miniconda3/envs/ros2_ws/bin/python3 (found version "3.10.14") found components: Interpreter 
+[2.304s] -- Configuring done
+[2.317s] -- Generating done
+[2.318s] -- Build files have been written to: /home/rose/ros2_ws/build/shared_queues_vendor
+[2.329s] Invoked command in '/home/rose/ros2_ws/build/shared_queues_vendor' returned '0': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake /home/rose/ros2_ws/src/rosbag2/shared_queues_vendor -DCMAKE_INSTALL_PREFIX=/home/rose/ros2_ws/install/shared_queues_vendor
+[2.331s] Invoking command in '/home/rose/ros2_ws/build/shared_queues_vendor': CMAKE_PREFIX_PATH=/home/rose/ros2_ws/install/inventory_system:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2_ws) /usr/bin/cmake --build /home/rose/ros2_ws/build/shared_queues_vendor -- -j16 -l16
+[2.387s] [ 12%] [34m[1mCreating directories for 'ext-concurrentqueue'[0m
+[2.388s] [ 12%] [34m[1mCreating directories for 'ext-singleproducerconsumer'[0m
+[2.471s] [ 18%] [34m[1mPerforming download step (download, verify and extract) for 'ext-singleproducerconsumer'[0m
+[2.472s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'ext-concurrentqueue'[0m
+[2.486s] -- Downloading...
+[2.488s]    dst='/home/rose/ros2_ws/build/shared_queues_vendor/download/ef7dfbf553288064347d51b8ac335f1ca489032a.zip'
+[2.488s]    timeout='60 seconds'
+[2.488s]    inactivity timeout='none'
+[2.488s] -- Downloading...
+[2.489s]    dst='/home/rose/ros2_ws/build/shared_queues_vendor/download/8f65a8734d77c3cc00d74c0532efca872931d3ce.zip'
+[2.489s]    timeout='60 seconds'
+[2.489s] -- Using src='https://github.com/cameron314/readerwriterqueue/archive/ef7dfbf553288064347d51b8ac335f1ca489032a.zip'
+[2.489s]    inactivity timeout='none'
+[2.489s] -- Using src='https://github.com/cameron314/concurrentqueue/archive/8f65a8734d77c3cc00d74c0532efca872931d3ce.zip'
+[3.352s] -- [download 21% complete]
+[3.379s] -- [download 65% complete]
+[3.409s] -- [download 100% complete]
+[3.409s] -- verifying file...
+[3.410s]        file='/home/rose/ros2_ws/build/shared_queues_vendor/download/ef7dfbf553288064347d51b8ac335f1ca489032a.zip'
+[3.410s] -- Downloading... done
+[3.434s] -- extracting...
+[3.434s]      src='/home/rose/ros2_ws/build/shared_queues_vendor/download/ef7dfbf553288064347d51b8ac335f1ca489032a.zip'
+[3.434s]      dst='/home/rose/ros2_ws/build/shared_queues_vendor/singleproducerconsumer/src/ext-singleproducerconsumer'
+[3.435s] -- extracting... [tar xfz]
+[3.471s] -- extracting... [analysis]
+[3.472s] -- extracting... [rename]
+[3.472s] -- extracting... [clean up]
+[3.472s] -- extracting... done
+[3.496s] [ 31%] [34m[1mNo update step for 'ext-singleproducerconsumer'[0m
+[3.526s] [ 37%] [34m[1mNo patch step for 'ext-singleproducerconsumer'[0m
+[3.563s] [ 43%] [34m[1mNo configure step for 'ext-singleproducerconsumer'[0m
+[3.600s] [ 50%] [34m[1mNo build step for 'ext-singleproducerconsumer'[0m
+[3.632s] [ 56%] [34m[1mNo install step for 'ext-singleproducerconsumer'[0m
+[3.667s] [ 62%] [34m[1mCompleted 'ext-singleproducerconsumer'[0m
+[3.705s] [ 62%] Built target ext-singleproducerconsumer
+[3.809s] -- verifying file...
+[3.809s]        file='/home/rose/ros2_ws/build/shared_queues_vendor/download/8f65a8734d77c3cc00d74c0532efca872931d3ce.zip'
+[3.815s] -- Downloading... done
+[3.836s] -- extracting...
+[3.836s]      src='/home/rose/ros2_ws/build/shared_queues_vendor/download/8f65a8734d77c3cc00d74c0532efca872931d3ce.zip'
+[3.836s]      dst='/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue'
+[3.836s] -- extracting... [tar xfz]
+[4.049s] -- extracting... [analysis]
+[4.050s] -- extracting... [rename]
+[4.050s] -- extracting... [clean up]
+[4.050s] -- extracting... done
+[4.071s] [ 68%] [34m[1mNo update step for 'ext-concurrentqueue'[0m
+[4.098s] [ 75%] [34m[1mNo patch step for 'ext-concurrentqueue'[0m
+[4.125s] [ 81%] [34m[1mNo configure step for 'ext-concurrentqueue'[0m
+[4.154s] [ 87%] [34m[1mNo build step for 'ext-concurrentqueue'[0m
+[4.182s] [ 93%] [34m[1mNo install step for 'ext-concurrentqueue'[0m
+[4.216s] [100%] [34m[1mCompleted 'ext-concurrentqueue'[0m
+[4.252s] [100%] Built target ext-concurrentqueue

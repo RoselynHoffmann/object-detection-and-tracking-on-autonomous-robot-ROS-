@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-concurrentqueue"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-concurrentqueue.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/CMakeFiles/ext-concurrentqueue-complete.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-build.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-configure.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-download.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-install.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-mkdir.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-patch.rule"
+		},
+		{
+			"file" : "/home/rose/ros2_ws/build/shared_queues_vendor/concurrentqueue/src/ext-concurrentqueue-stamp/ext-concurrentqueue-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext-concurrentqueue"
+		],
+		"name" : "ext-concurrentqueue"
+	}
+}

@@ -1,0 +1,30 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/action/basic_action__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/action/basic_action__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_idl__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_idl__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_msg__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_msg__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_idl__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_idl__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg_depends_on_idl__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg_depends_on_idl__type_support.cpp.o.d"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/srv/basic_srv__type_support.cpp.o"
+  "CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/srv/basic_srv__type_support.cpp.o.d"
+  "librosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.pdb"
+  "librosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.so"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/action/basic_action__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_idl__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/basic_msg__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_idl__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/msg/complex_msg_depends_on_idl__type_support.cpp"
+  "rosidl_typesupport_cpp/rosbag2_storage_mcap_testdata/srv/basic_srv__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/rosbag2_storage_mcap_testdata__rosidl_typesupport_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
