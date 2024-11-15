@@ -1,0 +1,8 @@
+prefix=/home/rose/ros_env/install
+
+Name: inventory_system
+Description: Description of inventory_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,19 @@
+<launch>
+    <node name="rosbag_publisher" pkg="inventory_system" type="rosbag_publisher.py" output="screen">
+        <param name="bag_path" value="/home/rose/ros_env/src/inventory_system/FrontFisheyeRectified20Hz.bag"/>
+    </node>
+    
+
+    // comment which one you want to test as you need 
+
+    <node name="inventory_system" pkg="inventory_system" type="object_detection.py" output="screen">
+        <param name="model_path" value="/home/rose/ros_ws/src/inventory_system/models/yolov8m.pt"/>
+<!-- 
+       <node name="inventory_system" pkg="inventory_system" type="object_detection_DS.py" output="screen">
+        <param name="model_path" value="/home/rose/ros_ws/src/inventory_system/models/yolov8s.pt"/> -->
+
+
+        <!-- <node name="inventory_system" pkg="inventory_system" type="object_detection_BY.py" output="screen">
+        <param name="model_path" value="/home/rose/ros_ws/src/inventory_system/models/yolov8m.pt"/> -->
+    </node>
+</launch>

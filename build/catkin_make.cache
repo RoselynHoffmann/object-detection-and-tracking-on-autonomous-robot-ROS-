@@ -1,0 +1,2 @@
+inventory_system
+-DCATKIN_DEVEL_PREFIX=/home/rose/ros_env/devel -DCMAKE_INSTALL_PREFIX=/home/rose/ros_env/install -G Unix Makefiles

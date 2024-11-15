@@ -1,0 +1,2 @@
+/home/rose/miniconda3/envs/ros_env/bin/x86_64-conda-linux-gnu-ar qc lib/libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+/home/rose/miniconda3/envs/ros_env/bin/x86_64-conda-linux-gnu-ranlib lib/libgmock_main.a
