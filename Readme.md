@@ -1,12 +1,12 @@
 ## Introduction
-This repository takes the previous code for the object detection node on the unitree go 2 and modifies it to use an appearance based object tracker for inventory counting. The appearance based object tracker uses cosine similarity to update object tracks. To run the example with the ros_bag.
+This repository takes the previous code for the object detection node on the unitree go 2 and modifies it to use an appearance based object tracker for inventory counting. The appearance based object tracker uses cosine similarity to update object tracks that runs the example with the ros_bag provided by the UniTree G01.
 
 ## Prerequisites
 Operating System: Ubuntu 18.04 or 20.04 (compatible with ROS Melodic or Noetic)
 ROS (Robot Operating System): Melodic or Noetic
 Python: 3.6 or higher
-CUDA-compatible GPU: Optional but recommended for performance
-ROS Bag File: Contains video frames published on the /video_frames topic
+CUDA-compatible GPU: Optional but recommended for performance :)
+ROS Bag File: Contains video frames published on the /video_frames topic.
 
 ## Installation
 ### 1. Install Ros Noetic
