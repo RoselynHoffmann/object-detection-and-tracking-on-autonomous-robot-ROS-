@@ -170,7 +170,6 @@ class InventorySystem:
         rospy.loginfo(f"Current FPS: {fps:.2f}")
 
     def shutdown_node(self):
-        """Shutdown the ROS node, printing inventory and closing any GUI elements."""
         rospy.loginfo("\nFinal Inventory of Detected Items:")
         if not self.inventory_detected_items:
             rospy.loginfo("No items detected.")

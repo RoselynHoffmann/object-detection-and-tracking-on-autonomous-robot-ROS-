@@ -21,10 +21,6 @@ class YOLOWithFeatureExtraction(YOLO):
         self.register_hooks()
 
     def register_hooks(self):
-        """
-        Register forward hooks to capture feature maps from YOLOv8's C2f layers in the neck.
-        Assign strides programmatically based on the cumulative stride.
-        """
         rospy.loginfo("YOLOv8 Model Architecture:")
         current_stride = 1
 
@@ -50,10 +46,6 @@ class YOLOWithFeatureExtraction(YOLO):
                 self.layer_strides[module] = current_stride
 
     def hook_fn(self, module, input, output):
-        """
-        Forward hook function to capture feature maps.
-        Stores features along with their corresponding strides.
-        """
         if not hasattr(self, 'current_features'):
             self.current_features = []
         stride = self.layer_strides.get(module, None)
@@ -64,9 +56,6 @@ class YOLOWithFeatureExtraction(YOLO):
             rospy.logwarn(f"Stride not found for module {module}")
 
     def remove_hooks(self):
-        """
-        Remove all forward hooks.
-        """
         for handle in self.hook_handles:
             handle.remove()
         self.hook_handles = []
@@ -85,9 +74,6 @@ class Track:
         self.is_active = True  #flag indicating if the track is active
 
     def update(self, bbox, feature):
-        """
-        Update the track with a new detection.
-        """
         self.bbox = bbox
         self.features.append(feature)
         self.time_since_update = 0
@@ -99,9 +85,6 @@ class Track:
         self.mean_feature = np.mean(self.features, axis=0)
 
     def mark_inactive(self):
-        """
-        Mark the track as inactive when it's not updated.
-        """
         self.is_active = False
         self.inactive_time += 1
         self.time_since_update += 1
@@ -386,12 +369,6 @@ class InventorySystem:
             #do NOT remove the track ID from inventory_detected_items to keep the count of unique items
 
     def associate_detections_to_tracks(self, detections, tracks):
-        """
-        Associate detections to existing tracks using Cosine Similarity.
-        Only compare detections and tracks of the same class.
-        Includes both active and inactive tracks for matching.
-        Returns matched pairs, unmatched detections, and unmatched tracks.
-        """
         matches = []
         unmatched_detections = []
         unmatched_tracks = []
@@ -464,7 +441,6 @@ class InventorySystem:
         return matches, unmatched_detections, unmatched_tracks
 
     def shutdown_node(self):
-        """Shutdown the ROS node, printing inventory and closing any GUI elements."""
         rospy.loginfo("\nFinal Inventory of Detected Items:")
         if not self.inventory_detected_items:
             rospy.loginfo("No items detected.")
